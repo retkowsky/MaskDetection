@@ -1,5 +1,5 @@
 
-<b>Creation of a Mask Detection model running on the edge with Azure AI Dev Kit.</b>
+Creation of a Mask Detection model running on the edge with Azure AI Dev Kit.
 
 1. Creation of a custom vision model using customvision.ai
 2. Exporting the model AI Dev Kit into an Azure blob Storage
