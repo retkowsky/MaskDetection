@@ -1,10 +1,13 @@
 
-Creation of a Mask Detection model running on the edge with Azure AI Dev Kit.
+<b>Creation of a Mask Detection model running on the edge with Azure AI Dev Kit.</b>
 
 1. Creation of a custom vision model using customvision.ai
 2. Exporting the model AI Dev Kit into an Azure blob Storage
 3. Add the location of the model into the Azure Edge configuration
 4. Then you can use the video camera with new model running directly on the EDGE.
+
+Demo :
+https://github.com/retkowsky/MaskDetection/blob/master/Pr%C3%A9sentation%20Mask%20Detection.pdf
 
 Custom Vision :
 https://www.customvision.ai/
