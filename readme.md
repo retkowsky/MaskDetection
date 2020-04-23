@@ -15,6 +15,9 @@ https://www.customvision.ai/
 ## More information about AI Dev Kit :
 https://azure.github.io/Vision-AI-DevKit-Pages/
 
+
+
+
 Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
