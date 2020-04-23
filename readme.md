@@ -6,6 +6,8 @@
 3. Add the location of the model into the Azure Edge configuration
 4. Then you can use the video camera with new model running directly on the EDGE.
 
+<img src="https://github.com/retkowsky/images/blob/master/MaskDetectionLogo.jpg?raw=true">
+
 ## Demo :
 https://github.com/retkowsky/MaskDetection/blob/master/Mask%20Detection%20with%20Azure%20AI.pdf
 
