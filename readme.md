@@ -1,5 +1,5 @@
 
-# Creation of a Mask Detection model running on the edge with Azure AI Dev Kit.
+# Creation of a Mask Detection model running on the edge with Azure AI Dev Kit
 
 1. Creation of a custom vision model using customvision.ai (https://www.customvision.ai)
 2. Exporting the AI Dev Kit custom vision model into an Azure blob Storage.
@@ -8,25 +8,25 @@
 
 <img src="https://github.com/retkowsky/images/blob/master/MaskDetectionLogo.jpg?raw=true">
 
-## Demo:
+## Demo
 https://github.com/retkowsky/MaskDetection/blob/master/Mask%20Detection%20with%20Azure%20AI.pdf
 
-## Microsoft Custom Vision:
+## Microsoft Custom Vision
 https://www.customvision.ai/
 
-## More information about AI Dev Kit:
+## More information about AI Dev Kit
 https://azure.github.io/Vision-AI-DevKit-Pages/
 
-## AI@Edge community pages:
+## AI@Edge community pages
 https://microsoft.github.io/ai-at-edge/
 
-## More information about Azure ML:
+## More information about Azure ML
 https://docs.microsoft.com/en-us/azure/machine-learning/
 
-## Azure IoT Hub:
+## Azure IoT Hub
 https://docs.microsoft.com/en-us/azure/iot-hub/
 
-## Intelligent Edge device:
+## Intelligent Edge device
 https://azure.microsoft.com/en-us/overview/future-of-cloud/
 
 <br>
