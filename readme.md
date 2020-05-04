@@ -20,6 +20,9 @@ https://azure.github.io/Vision-AI-DevKit-Pages/
 ## AI@Edge community pages
 https://microsoft.github.io/ai-at-edge/
 
+## Additional demo
+https://github.com/Azure-Samples/IoTDemos/tree/master/WorkplaceHealthAndSafetyDemo
+
 ## More information about Azure ML
 https://docs.microsoft.com/en-us/azure/machine-learning/
 
