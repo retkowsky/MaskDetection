@@ -32,6 +32,8 @@ https://docs.microsoft.com/en-us/azure/iot-hub/
 ## Intelligent Edge device
 https://azure.microsoft.com/en-us/overview/future-of-cloud/
 
+Thanks to Laurent Maymard - IoT GBB (laurent.maymard@microsoft.com) - for his Azure IOT & Edge expertise.
+
 <br>
 Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
 
