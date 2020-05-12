@@ -39,5 +39,8 @@ https://azure.microsoft.com/en-us/services/machine-learning-service/
 <b>Thanks to Laurent Maymard - IoT GBB (laurent.maymard@microsoft.com) - for his Azure IOT & Edge expertise.</b>
 <br>
 <br>
-Serge Retkowsky serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/ | https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg
+Serge Retkowsky <br>
+serge.retkowsky@microsoft.com<br>
+https://www.linkedin.com/in/serger/<br>
+https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg<br>
 
