@@ -36,7 +36,7 @@ https://azure.microsoft.com/en-us/overview/future-of-cloud/
 https://azure.microsoft.com/en-us/services/machine-learning-service/
 
 <br>
-**Thanks to Laurent Maymard - IoT GBB (laurent.maymard@microsoft.com) - for his Azure IOT & Edge expertise.**
+<b>Thanks to Laurent Maymard - IoT GBB (laurent.maymard@microsoft.com) - for his Azure IOT & Edge expertise.</b>
 <br>
 <br>
 Serge Retkowsky serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/ | https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg
