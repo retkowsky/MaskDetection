@@ -31,13 +31,13 @@ https://docs.microsoft.com/en-us/azure/iot-hub/
 
 ## Intelligent Edge device
 https://azure.microsoft.com/en-us/overview/future-of-cloud/
-<br>
-<br>
-**Thanks to Laurent Maymard - IoT GBB (laurent.maymard@microsoft.com) - for his Azure IOT & Edge expertise.**
+
+## Azure ML 
+https://azure.microsoft.com/en-us/services/machine-learning-service/
 
 <br>
-Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
+**Thanks to Laurent Maymard - IoT GBB (laurent.maymard@microsoft.com) - for his Azure IOT & Edge expertise.**
 <br>
 <br>
-<b>Serge Retkowsky</b> Email: serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/ | https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg
+Serge Retkowsky serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/ | https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg
 
