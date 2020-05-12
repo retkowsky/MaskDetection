@@ -39,5 +39,5 @@ https://azure.microsoft.com/en-us/overview/future-of-cloud/
 Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
 <br>
 <br>
-<b>Serge Retkowsky<br> serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/ | https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg
+<b>Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/ | https://www.youtube.com/channel/UCiqfuuwDAFJGtOw_LTAtbFg
 </b>
